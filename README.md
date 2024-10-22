@@ -116,7 +116,8 @@ Feel free to contribute to this project or reach out for any questions!
 
 
 ##ScreenShots
-The screenshot includes the graph data fetched from the database and also the table content for changes in temerature with different table for specific dates
+
+The screenshot includes the graph data fetched from the database and also the table content for changes in temperature with different table for specific dates
 
 ![image](https://github.com/user-attachments/assets/1ca2048e-69ba-4612-9003-39c0a5426ad7)
 ![image](https://github.com/user-attachments/assets/747b6e18-4079-4951-9e89-133ca60e5e29)
