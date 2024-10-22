@@ -113,3 +113,12 @@ WeatherMonitoringSystem/
 The Weather Monitoring System is a robust application that provides users with real-time weather updates and insights through effective data aggregation and visualization. The modular structure of the application allows for easy enhancements and maintenance.
 
 Feel free to contribute to this project or reach out for any questions!
+
+
+##ScreenShots
+The screenshot includes the graph data fetched from the database and also the table content for changes in temerature with different table for specific dates
+
+![image](https://github.com/user-attachments/assets/1ca2048e-69ba-4612-9003-39c0a5426ad7)
+![image](https://github.com/user-attachments/assets/747b6e18-4079-4951-9e89-133ca60e5e29)
+![image](https://github.com/user-attachments/assets/030aee56-2586-46e8-8832-0b0190d22c9b)
+
